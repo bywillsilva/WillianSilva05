@@ -1,3 +1,4 @@
+<html translate="no">
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
 Estudante Técnico de Informática para Internet - 3/3
 
@@ -17,7 +18,7 @@ Natal - RN
     </a>
 </div>
 
-<p translate="no">Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
+<p>Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
 
 ### Tecnologias
 
