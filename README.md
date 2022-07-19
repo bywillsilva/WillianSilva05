@@ -1,4 +1,3 @@
-<html translate="no">
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
 Estudante Técnico de Informática para Internet - 3/3
 
