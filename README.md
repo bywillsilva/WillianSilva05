@@ -1,6 +1,8 @@
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
 Estudante Técnico de Informática para Internet - 3/3
-<blockquote>Natal - RN</blockquote>
+
+
+Natal - RN
 
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=WillianSilva05&theme=radical&show_icons=true">
