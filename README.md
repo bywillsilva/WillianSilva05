@@ -4,11 +4,11 @@ Estudante Técnico de Informática para Internet - 3/3
 
 Natal - RN
 
-<div style="text-align: center;">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=WillianSilva05&theme=radical&show_icons=true">
 </div>
 
-<div style="text-align: center;">
+<div>
     <a href="https://www.instagram.com/willian_raniere/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110px">
     </a>
@@ -17,11 +17,11 @@ Natal - RN
     </a>
 </div>
 
-<p style="text-align: justify;">Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
+<p>Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
 
 ### Tecnologias
 
-<div style="display: flex; justify-content: space-evenly">
+<div>
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50px">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" width="50px">
@@ -32,4 +32,4 @@ Natal - RN
 
 <hr>
 
-<p style="text-align: center;">Willian Raniere - 2022</p>
+<p>Willian Raniere - 2022</p>
