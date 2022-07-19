@@ -17,7 +17,7 @@ Natal - RN
     </a>
 </div>
 
-<p>Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
+<p translate="no">Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
 
 ### Tecnologias
 
