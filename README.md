@@ -5,7 +5,8 @@ Estudante Técnico de Informática para Internet - 3/3
 Natal - RN
 
 <div>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=WillianSilva05&theme=radical&show_icons=true"></a>
+    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSilva05&theme=radical&show_icons=true"></a>
+    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva05&theme=radical&show_icons=true&layout=compact"></a>
 </div>
 
 <div>
