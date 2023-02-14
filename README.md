@@ -5,12 +5,12 @@ Estudante Técnico de Informática para Internet - 3/3
 Natal - RN
 
 <div>
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianSilva05&theme=radical&show_icons=true"></a>
-    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianSilva05&theme=radical&show_icons=true&layout=compact"></a>
+    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bywillsilva&theme=radical&show_icons=true"></a>
+    <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bywillsilva&theme=radical&show_icons=true&layout=compact"></a>
 </div>
 
 <div>
-    <a href="https://www.instagram.com/willian_raniere/">
+    <a href="https://www.instagram.com/bywill_silva/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110px">
     </a>
     <a href="https://www.linkedin.com/in/willian-raniere/">
