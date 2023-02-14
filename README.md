@@ -1,5 +1,5 @@
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
-Estudante Técnico de Informática para Internet - 3/3
+Técnico de Informática para Internet - Senai
 
 
 Natal - RN
