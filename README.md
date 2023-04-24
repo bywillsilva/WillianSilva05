@@ -1,5 +1,4 @@
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
-Dev Fullstack
 
 
 Natal - RN
