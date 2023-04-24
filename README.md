@@ -9,15 +9,6 @@ Natal - RN
     <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bywillsilva&theme=radical&show_icons=true&layout=compact"></a>
 </div>
 
-<div>
-    <a href="https://www.instagram.com/bywill_silva/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110px">
-    </a>
-    <a href="https://www.linkedin.com/in/willian-raniere/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px">
-    </a>
-</div>
-
 <p>Sempre que posso, estou envolvido em algum projeto tecnológico ou estudando algo sobre o mundo da tecnologia.</p>
 
 ### Tecnologias
@@ -34,4 +25,12 @@ Natal - RN
 
 <hr>
 
-<p>Willian Raniere - 2023</p>
+<div>
+    <p>Willian Raniere - 2023</p>
+    <a href="https://www.instagram.com/bywill_silva/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110px">
+    </a>
+    <a href="https://www.linkedin.com/in/willian-raniere/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px">
+    </a>
+</div>
