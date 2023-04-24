@@ -1,5 +1,5 @@
 ### Seja bem vindo(a) ao meu perfil! Me chamo Willian 😄
-Técnico de Informática para Internet - Senai
+Front-end Developer
 
 
 Natal - RN
