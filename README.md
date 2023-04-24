@@ -29,7 +29,7 @@ Natal - RN
     <a href="#"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="50px"></a>
     <a href="#"><img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" width="50px"></a>
     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="55px"></a>
-    <a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="60px"></a>
+    <a href="#"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.png" width="65px"></a>
 </div>
 
 <hr>
